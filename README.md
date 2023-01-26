@@ -167,20 +167,20 @@ Address:77G5+XM6, Minjur, Tamil Nadu 601203
 
 ## Output:
 
-![Output](./screenshots/out1.png)
+![Output](screenshots/out1.png)
 
-![Output](./screenshots/out2.png)
+![Output](screenshots/out2.png)
 
-![Output](./screenshots/out3.png)
+![Output](screenshots/out3.png)
 
-![Output](./screenshots/out4.png)
+![Output](screenshots/out4.png)
 
-![Output](./screenshots/out5.png)
+![Output](screenshots/out5.png)
 
-![Output](./screenshots/out6.png)
+![Output](screenshots/out6.png)
 
 ## HTML Validator :
-![HTML_Validator](./screenshots/vald.png)
+![HTML_Validator](screenshots/vald.png)
 
 ## Result:
 The program for implementing image map is executed successfully
