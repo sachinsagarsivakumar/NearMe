@@ -173,11 +173,11 @@ Address:77G5+XM6, Minjur, Tamil Nadu 601203
 
 ![Output](./out3.png)
 
-![Output](./out4.png)
+![Output](./out4.jpg)
 
-![Output](./out5.png)
+![Output](./out5.jpg)
 
-![Output](./out6.png)
+![Output](./out6.jpg)
 
 ## HTML Validator :
 ![HTML_Validator](./vald.png)
